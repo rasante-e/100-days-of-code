@@ -6,11 +6,9 @@
 
     **Progress:**  Today, and likely the next few days, consisted of a refresher course on Treehouse. It's been a couple of months since the last class of my web development course, so I think reviewing the basics now will save me a lot of time and headache as I venture into more advanced topics and work on my portfolio projects.
 
-    ### Day 1
+    ### Day 1 - June 11, 2022
 
-    **Progress:**
-    **Thoughts:**
-    **Link to work:**
+    **Progress:** Today was a continuation of JavaScript basics as a refrsher to make sure I have a solid foundation before moving onto more advanced topics. The main lessons today were using template literals and Boolean values. I also learned that you can compare strings using the lesser or greater than operator.
 
     ### Day 2
 
