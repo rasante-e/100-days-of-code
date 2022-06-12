@@ -10,11 +10,9 @@
 
     **Progress:** Today was a continuation of JavaScript basics as a refrsher to make sure I have a solid foundation before moving onto more advanced topics. The main lessons today were using template literals and Boolean values. I also learned that you can compare strings using the lesser or greater than operator.
 
-    ### Day 2
+    ### Day 2 - June 12, 2022
 
-    **Progress:**
-    **Thoughts:**
-    **Link to work:**
+    **Progress:** Today's work involved a review of using conditional statements with multiple options, as well as a refresher on numbers in JS.
 
     ### Day 3
 
