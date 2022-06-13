@@ -14,11 +14,9 @@
 
     **Progress:** Today's work involved a review of using conditional statements with multiple options, as well as a refresher on numbers in JS.
 
-    ### Day 3
+    ### Day 3 - June 13, 2022
 
-    **Progress:**
-    **Thoughts:**
-    **Link to work:**
+    **Progress:** Reviewed the math object in JavaScript and the methods available to that object. I also began an overview of creating functions.
 
     ### Day 4
 
