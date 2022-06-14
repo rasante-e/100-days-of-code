@@ -18,11 +18,9 @@
 
     **Progress:** Reviewed the math object in JavaScript and the methods available to that object. I also began an overview of creating functions.
 
-    ### Day 4
+    ### Day 4 - June 14, 2022
 
-    **Progress:**
-    **Thoughts:**
-    **Link to work:**
+    **Progress:** Switched it up today and did some Boostrap lessons on Free Code Camp. Reviewed the basic grid layout of Bootstrap, which is the basis of page structure, as well as different options for styling images, texts, buttons and form entries.
 
     ### Day 5
 
