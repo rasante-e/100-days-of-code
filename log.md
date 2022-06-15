@@ -22,11 +22,9 @@
 
     **Progress:** Switched it up today and did some Boostrap lessons on Free Code Camp. Reviewed the basic grid layout of Bootstrap, which is the basis of page structure, as well as different options for styling images, texts, buttons and form entries.
 
-    ### Day 5
+    ### Day 5 - June 15, 2022
 
-    **Progress:**
-    **Thoughts:**
-    **Link to work:**
+    **Progress:** Finished the Bootstrap module on Free Code Camp and started jQuery. I briefly learned some jQuery years ago, but a lot of this is new to me.
 
     ### Day 6
 
