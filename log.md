@@ -26,8 +26,14 @@
 
     **Progress:** Finished the Bootstrap module on Free Code Camp and started jQuery. I briefly learned some jQuery years ago, but a lot of this is new to me.
 
-    ### Day 6
+    ### Day 6 - June 16, 2022
+
+    **Progress:** Finished jQuery module. Reviewed functions, including return values, arguments and parameters. Also reviewed function declaration vs. function expression. Would like to learn more on the usage of declarations vs. expressions.
+
+    ### Day 7 - June 17, 2022
 
     **Progress:**
-    **Thoughts:**
-    **Link to work:**
+
+    ### Day 8 - June 18, 2022
+
+    **Progress:**
