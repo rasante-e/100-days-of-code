@@ -32,8 +32,12 @@
 
     ### Day 7 - June 17, 2022
 
-    **Progress:**
+    **Progress:** Today's lesson was all about arrow functions and assigning default parameters when no arguments are passed, both of which are topics with which I'm not too familiar.
 
     ### Day 8 - June 18, 2022
+
+    **Progress:**
+
+    ### Day X - 
 
     **Progress:**
