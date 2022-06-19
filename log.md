@@ -36,6 +36,22 @@
 
     ### Day 8 - June 18, 2022
 
+    **Progress:** Reviewed do/while and while loops.
+
+    ### Day 9 - June 19, 2022
+
+    **Progress:** Reviewed arrays, their methods, and how to use looping through an array with HTML.
+
+    ### Day X - 
+
+    **Progress:**
+
+    ### Day X - 
+
+    **Progress:**
+
+    ### Day X - 
+
     **Progress:**
 
     ### Day X - 
