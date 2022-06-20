@@ -42,9 +42,9 @@
 
     **Progress:** Reviewed arrays, their methods, and how to use looping through an array with HTML.
 
-    ### Day X - 
+    ### Day 10 - June 20, 2022 
 
-    **Progress:**
+    **Progress:** Continued my review of arrays by creating one.
 
     ### Day X - 
 
