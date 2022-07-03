@@ -46,9 +46,9 @@
 
     **Progress:** Continued my review of arrays by creating one.
 
-    ### Day X - 
+    ### Day 11 - July 3, 2022 - 
 
-    **Progress:**
+    **Progress:** Used arrays, for loops and if/else statements to create a quiz webpage.
 
     ### Day X - 
 
