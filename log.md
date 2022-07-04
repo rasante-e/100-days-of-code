@@ -50,10 +50,38 @@
 
     **Progress:** Used arrays, for loops and if/else statements to create a quiz webpage.
 
+    ### Day 12 - July 4, 2022 - 
+
+    **Progress:** Reviewed JavaScript functions and created flashcards.
+
     ### Day X - 
 
     **Progress:**
 
-    ### Day X - 
+     ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
+
+    **Progress:**
+    
+     ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
 
     **Progress:**
