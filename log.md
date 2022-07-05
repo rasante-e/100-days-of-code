@@ -54,9 +54,9 @@
 
     **Progress:** Reviewed JavaScript functions and created flashcards.
 
-    ### Day X - 
+    ### Day 13 - July 5, 2022 
 
-    **Progress:**
+    **Progress:** Continuing to use JavaScript objects and arrays.
 
      ### Day X - 
 
