@@ -58,9 +58,9 @@
 
     **Progress:** Continuing to use JavaScript objects and arrays.
 
-     ### Day X - 
+     ### Day 14 - July 6, 2022
 
-    **Progress:**
+    **Progress:** Combined arrays and objects to create a pet listing page.
 
      ### Day X - 
 
