@@ -62,9 +62,9 @@
 
     **Progress:** Combined arrays and objects to create a pet listing page.
 
-     ### Day X - 
+     ### Day 15 - July 8, 2022
 
-    **Progress:**
+    **Progress:** Wrapped up section on for/in loops, arrays and objects. Started learning about JavaScript and the DOM.
 
      ### Day X - 
 
