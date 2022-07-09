@@ -66,9 +66,9 @@
 
     **Progress:** Wrapped up section on for/in loops, arrays and objects. Started learning about JavaScript and the DOM.
 
-     ### Day X - 
+     ### Day 16 - July 9, 2022 
 
-    **Progress:**
+    **Progress:** Reviewed elements of the DOM and how they can be accessed/edited using JavaScript.
     
      ### Day X - 
 
