@@ -70,9 +70,9 @@
 
     **Progress:** Reviewed elements of the DOM and how they can be accessed/edited using JavaScript.
     
-     ### Day X - 
+     ### Day 17 - July 10, 2022 
 
-    **Progress:**
+    **Progress:** Continued learning about the DOM and how to set up event listeners to edit the HTML/CSS of a webpage.
 
      ### Day X - 
 
