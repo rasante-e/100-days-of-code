@@ -74,6 +74,18 @@
 
     **Progress:** Continued learning about the DOM and how to set up event listeners to edit the HTML/CSS of a webpage.
 
+     ### Day 18 - July 11, 2022
+
+    **Progress:** Explored "getElementsByTagName" and class name. Also touched upon for/of loops.
+
+     ### Day 19 - July 12, 2022
+
+    **Progress:** More review of using JavaScript with CSS. Explored document.querySelector(); and document.querySelectorAll();
+
+     ### Day X - 
+
+    **Progress:**
+
      ### Day X - 
 
     **Progress:**
