@@ -82,7 +82,11 @@
 
     **Progress:** More review of using JavaScript with CSS. Explored document.querySelector(); and document.querySelectorAll();
 
-     ### Day X - 
+     ### Day 20 - July 13, 2022 
+
+    **Progress:** Did exercises with textContent
+
+     ### Day 21 - Explored using textContent and innerHTML to update element attributes in a webpage.
 
     **Progress:**
 
@@ -95,5 +99,9 @@
     **Progress:**
 
      ### Day X - 
+
+    **Progress:**
+    
+    ### Day X - 
 
     **Progress:**
