@@ -86,13 +86,13 @@
 
     **Progress:** Did exercises with textContent
 
-     ### Day 21 - Explored using textContent and innerHTML to update element attributes in a webpage.
+     ### Day 21 - July 14, 2022
 
-    **Progress:**
+    **Progress:** Explored using textContent and innerHTML to update element attributes in a webpage.
 
-     ### Day X - 
+     ### Day 22 - July 16, 2022
 
-    **Progress:**
+    **Progress:** Learned how to add elements to the DOM.
 
      ### Day X - 
 
