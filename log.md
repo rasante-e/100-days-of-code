@@ -94,6 +94,30 @@
 
     **Progress:** Learned how to add elements to the DOM.
 
+     ### Day 23 - July 17, 2022 
+
+    **Progress:** Learned how to remove elements from the DOM and began review of callback functions.
+
+     ### Day X - 
+
+    **Progress:**
+    
+    ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
+
+    **Progress:**
+
+     ### Day X - 
+
+    **Progress:**
+    
+    ### Day X - 
+
+    **Progress:**
+
      ### Day X - 
 
     **Progress:**
