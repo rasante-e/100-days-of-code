@@ -98,13 +98,13 @@
 
     **Progress:** Learned how to remove elements from the DOM and began review of callback functions.
 
-     ### Day X - 
+     ### Day 24 - July 20, 2022 
 
-    **Progress:**
+    **Progress:** Reviewed callback functions.
     
-    ### Day X - 
+    ### Day 25 - July 21, 2022 
 
-    **Progress:**
+    **Progress:** Setting up event listeners.
 
      ### Day X - 
 
